@@ -1,5 +1,6 @@
 # Game_Capstone
 2023 Game Capstone Design team project
+
 Unity Version : 2022.2.1f1
 
 기획서
