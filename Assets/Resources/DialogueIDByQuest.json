@@ -1,0 +1,168 @@
+{
+	"dialogueChanges":
+	[
+		{
+			"objName": "셰이드",
+			"objID": "0",
+			"questList":
+			[
+				{
+					"questNum": 1,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 2
+						}
+					]
+				},
+				{
+					"questNum": 2,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 3
+						}
+					]
+				},
+				{
+					"questNum": 3,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 4
+						},
+						{
+							"questActivated" : 1,
+							"dialogueID" : 5
+						}
+					]
+				}
+			]
+		},
+		{
+			"objName": "매니저M",
+			"objID": "1",
+			"questList":
+			[
+				{
+					"questNum": 1,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 2
+						}
+					]
+				},
+				{
+					"questNum": 2,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 3
+						},
+						{
+							"questActivated" : 1,
+							"dialogueID" : 4
+						}
+					]
+				}
+			]
+		},
+		{
+			"objName": "이노",
+			"objID": "2",
+			"questList":
+			[
+				{
+					"questNum": 1,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 2
+						}
+					]
+				},
+				{
+					"questNum": 2,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 3
+						}
+					]
+				},
+				{
+					"questNum": 3,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 4
+						}
+					]
+				}
+			]
+		},
+		{
+			"objName": "이노의 책상",
+			"objID": "3",
+			"questList":
+			[
+				{
+					"questNum": 1,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 1
+						}
+					]
+				},
+				{
+					"questNum": 2,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 2
+						}
+					]
+				}
+			]
+		},
+		{
+			"objName": "호이트",
+			"objID": "4",
+			"questList":
+			[
+				{
+					"questNum": 1,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 0
+						}
+					]
+				},
+				{
+					"questNum": 2,
+					"dialogueIDByActivated":
+					[
+						{
+							"questActivated" : 0,
+							"dialogueID" : 1
+						}
+					]
+				}
+			]
+		}
+	]
+}

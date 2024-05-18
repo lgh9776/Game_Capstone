@@ -1,0 +1,4 @@
+repository "SM_GAME_CapstoneDesign@Gyulari@cloud"
+  path "/"
+    smartbranch "/main/학술제 대비 4차 작업/URPTEST/save test"                                  
+     
